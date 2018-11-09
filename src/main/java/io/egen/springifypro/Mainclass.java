@@ -6,7 +6,7 @@ public class Mainclass {
 	{
 		System.out.println("HAppy girl");
 		
-		System.out.println("Happy happy go");
+		System.out.println("Testing this once again");
 	}
 
 }
